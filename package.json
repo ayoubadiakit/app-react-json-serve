@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://github.com/ayoubadiakit.github.io/app-react-json-serve",
+  "homepage": "https://ayoubadiakit.github.io/app-react-json-serve",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
