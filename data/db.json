@@ -1,0 +1,40 @@
+{
+  "blogs": [
+    {
+      "id": "1",
+      "title": "Data Science Central",
+      "body": "Comme son nom l'indique, Data Science Central est un hub de ressources en ligne dédié à tout ce qui touche à la data science et au Big Data. Le site couvre un large éventail de sujets liés à la data science : analytique, technologie, outils, visualisation de données, code et opportunités d'embauche. Des experts du secteur participent aux discussions et offrent des insights sur des sujets clés.Le site est régulièrement actualisé, avec la publication d'environ deux articles de blog par jour par des contributeurs. Grâce au forum communautaire du site, vous pouvez également participer à des discussions ou poser des questions.",
+      "name": "Vincent Granville"
+    },
+    {
+      "id": "2",
+      "title": "SmartData Collective",
+      "body": "SmartData Collective est un site communautaire qui porte sur les tendances de la BI et de la gestion des données. Tout comme Data Science Central, il offre des insights dans le domaine de la data science grâce à la contribution d'experts du secteur. Mais tandis que Data Science Central se concentre uniquement sur la data science, SmartData Collective adopte une vision plus large et examine la façon dont cette discipline peut se recouper avec le monde de l'entreprise.",
+      "name": "Social Media Today"
+    },
+    {
+      "id": "3",
+      "title": "What's The Big Data?",
+      "body": "Le blog « What's The Big Data? » adopte une autre approche en matière de data science. Il se concentre sur l'impact de la transformation du Big Data en véritable colosse numérique. À l'origine chercheur dans le domaine des données, Gil Press, fondateur de ce blog, dirige aujourd'hui un cabinet de conseil. Le Big Data et la data science n'ont donc aucun secret pour lui. Dans son blog, il explore le rôle du Big Data dans nos vies, ainsi que son influence omniprésente, de la technologie aux entreprises en passant par le gouvernement et les politiques. Il offre une mine d'informations et de commentaires sur le monde des données.",
+      "name": "Gil Press"
+    },
+    {
+      "id": "4",
+      "title": "No Free Hunch",
+      "body": "Ce blog diffère légèrement des autres, dans le sens où il offre un accès direct aux travaux des data scientists et qu'il propose des didacticiels et des actualités. Il s'agit du blog du site Web de Kaggle sur la data science. Celui-ci héberge des projets et des concours destinés aux data scientists et visant à produire les meilleurs modèles possibles pour des ensembles de données. Les entreprises peuvent y présenter un problème lié aux données, avec un prix à la clé pour le professionnel de la data qui le résoudra. Cette approche participative offre des expériences innovantes et intéressantes, ainsi que de nouvelles perspectives. Le site compte plus de 200 concours à ce jour, avec des défis de haut niveau consistant par exemple à optimiser la reconnaissance des gestes par Microsoft Kinect, améliorer la recherche du boson de Higgs au CERN, ainsi que le célèbre prix Heritage Health de 3 millions de dollars pour améliorer la prévision des patients admis à l'hôpital. Le blog officiel de Kaggle dissèque ces concours et publie des entretiens avec les gagnants pour connaître la façon dont ils abordent les problèmes de data science. Il offre également des actualités et des didacticiels pour tous les férus de data science, quel que soit leur niveau.",
+      "name": "Kaggle"
+    },
+    {
+      "id": "5",
+      "title": "insideBIGDATA",
+      "body": "InsideBIGDATA porte sur tout ce qui touche au machine learning au sein de la data science. Le site examine le rôle du Big Data dans l'informatique et les affaires, le machine learning, le deep learning et l'intelligence artificielle. Les invités du blog offrent des perspectives sur le secteur, tandis que les actualités et les articles choisis par l'éditeur mettent en évidence les évènements clés dans ce domaine. Tous les articles sont soigneusement classés par sujet afin que les lecteurs puissent étudier des thèmes spécifiques. Le blog contient également une multitude de ressources : évènements, opportunités professionnelles, rapports de recherche, et bien plus encore. Il s'agit d'une source d'informations précieuse pour tous ceux qui souhaitent suivre les nouveautés du machine learning.",
+      "name": "Rich Brueckner"
+    },
+    {
+      "id": "5ea1",
+      "title": "Les grand developpeur",
+      "name": "Ayouba Diakite",
+      "body": "Ce article est le premier que j'ai creer "
+    }
+  ]
+}
